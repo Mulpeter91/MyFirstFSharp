@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNEbBX5NeNI7mG6Flw1wjMJr44R3Ucws+P4A9b+aR8xiAJ5wF39InMe9iArHlgIe3ri2OwdVLckXC6mVMQroPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Udemy\\F#FromTheGroundUp\\projects\\Bricks\\Bricks.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

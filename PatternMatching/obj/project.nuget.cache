@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gg8F+m49Yot7Fd0xDLRvYbkc4WyO1GeMuXBJimksjVFOJ+bpoPdqjMxmjhEDEUkjKlhWhOsUSonv4asBExG41g==",
+  "success": true,
+  "projectFilePath": "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\PatternMatching.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

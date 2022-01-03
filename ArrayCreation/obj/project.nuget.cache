@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o8xVbzYJoL/seBuxKqfwtULpQII9ue13JEBBNiR5ZjK+LG+0cz0wtbjeIFM9w3/3HJeKfe98VknljGBgJ3SFsA==",
+  "success": true,
+  "projectFilePath": "D:\\Udemy\\F#FromTheGroundUp\\projects\\ArrayCreation\\ArrayCreation.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

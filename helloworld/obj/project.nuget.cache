@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIU4see262Zo+HPM5Nt4M1Xw5ANanHXpbikROMEyUOEwBmx716tVFktAW9wDBo0Ys+QuqDR4AI0NOBmv4NXixw==",
+  "success": true,
+  "projectFilePath": "D:\\Udemy\\F#FromTheGroundUp\\projects\\helloworld\\helloworld.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

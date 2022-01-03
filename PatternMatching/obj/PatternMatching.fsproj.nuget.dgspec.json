@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\PatternMatching.fsproj": {}
+  },
+  "projects": {
+    "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\PatternMatching.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\PatternMatching.fsproj",
+        "projectName": "PatternMatching",
+        "projectPath": "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\PatternMatching.fsproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "d:\\Udemy\\F#FromTheGroundUp\\fsgu\\29_PatternMatching\\Before\\PatternMatching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

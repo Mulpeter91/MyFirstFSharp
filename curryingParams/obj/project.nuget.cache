@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jURFcKZIH+db6XSpyxnlTh1GBb9ybpUrrMQ/mwuUBpCeXW3UgOBKLpjdpKJEWuVfMa8hG1o7xHiX6TwRFt5djQ==",
+  "success": true,
+  "projectFilePath": "D:\\Udemy\\F#FromTheGroundUp\\projects\\curryingParams\\curryingParams.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,52 @@
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\helloworld.exe
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\helloworld.deps.json
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\helloworld.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\helloworld.pdb
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\FSharp.Core.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.fsproj.AssemblyReference.cache
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.fs
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.fsproj.CopyComplete
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.dll
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.pdb
+D:\Udemy\F# From the Ground Up\projects\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\helloworld.exe
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\helloworld.deps.json
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\helloworld.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\helloworld.pdb
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\FSharp.Core.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.fsproj.AssemblyReference.cache
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.fs
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.fsproj.CopyComplete
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.dll
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.pdb
+D:\Udemy\F#FromTheGroundUp\projects\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache

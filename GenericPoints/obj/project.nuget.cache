@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCpGQLuAm7pL4QGyIZMZcDyAnPYJGRkSYWFiU2EASb8ZfLBORMHGoHDj78p4AN/r57FTWkd3NdpRukSsw4WPwA==",
+  "success": true,
+  "projectFilePath": "d:\\Udemy\\F#FromTheGroundUp\\projects\\GenericPoints\\GenericPoints.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
